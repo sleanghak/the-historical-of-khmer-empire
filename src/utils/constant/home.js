@@ -1,0 +1,11 @@
+const about = "We gonna talk about the history of Cambodia as like each era of Cambodia, traditional, history of Khmer theatre, traditional dance and the inclusion of Khmer heritage as detail.";
+const cambodiaHistory = "The Early history of Cambodia follows the prehistoric and protohistoric development of Cambodia as a country in mainland Southeast Asia. Thanks to archaeological work carried out since 2009 this can now be traced back to the Neolithic period. Cambodia's culture has its roots in the 1st to 6th centuries, in a state called Funan, which is also the oldest Indianised state in Southeast Asia. Funan gave way to the Angkor Empire with the rise to power of King Jayavarman II in AD802.";
+const cultureCivilization = "Throughout Cambodia's long history, religion has been a major source of cultural inspiration. Over nearly two millennia, Cambodians have developed a unique Khmer culture and belief system from the syncreticism of indigenous animistic beliefs and the Indian religions of Buddhism and Hinduism.The classic period or Khmer Empire lasted from the early 9th century to the early 15th century. Technical and artistic progress, greatest cultural achievements, political integrity and administrative stability marked the golden age of Khmer civilization.";
+const cambodiaArt = "The history of Cambodia art stretches back centuries to ancient times, but the most famous period is undoubtedly the Khmer art of the Khmer Empire(802-1431), especially in the area around Angkor and the mainly 12th-century temple-complex of Angkor Wat, initially Hindu and subsequently Buddhist. After the collape of the empire these and other sites were abandoned and overgrown, allowing much of the era's stone carving and architecture to survive to the persent day. Traditional Cambodian arts and crafts include textiles, non-textile weaving, silversmithing, stone carving, lacquerware, ceramics, wat murals, and kite-making.";
+
+export {
+    cambodiaHistory,
+    about,
+    cultureCivilization,
+    cambodiaArt,
+};
